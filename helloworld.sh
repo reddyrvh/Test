@@ -2,4 +2,4 @@ pwd
  
 ls -ltr
  
-print("hellow how are you ..?")
+echo "hellow how are you ..?"
